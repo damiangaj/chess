@@ -1,0 +1,68 @@
+C:\Users\juliu\source\repos\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.deps.json
+C:\Users\juliu\source\repos\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.dll
+C:\Users\juliu\source\repos\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.pdb
+C:\Users\juliu\source\repos\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliu\source\repos\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.AssemblyInfoInputs.cache
+C:\Users\juliu\source\repos\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.AssemblyInfo.cs
+C:\Users\juliu\source\repos\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.csproj.CoreCompileInputs.cache
+C:\Users\juliu\source\repos\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.dll
+C:\Users\juliu\source\repos\dotNETProject\ChessCore\obj\Debug\net6.0\refint\ChessCore.dll
+C:\Users\juliu\source\repos\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.pdb
+C:\Users\juliu\source\repos\dotNETProject\ChessCore\obj\Debug\net6.0\ref\ChessCore.dll
+C:\Users\Damian\Desktop\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.deps.json
+C:\Users\Damian\Desktop\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.dll
+C:\Users\Damian\Desktop\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.pdb
+C:\Users\Damian\Desktop\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Desktop\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.AssemblyInfo.cs
+C:\Users\Damian\Desktop\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.dll
+C:\Users\Damian\Desktop\dotNETProject\ChessCore\obj\Debug\net6.0\refint\ChessCore.dll
+C:\Users\Damian\Desktop\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.pdb
+C:\Users\Damian\Desktop\dotNETProject\ChessCore\obj\Debug\net6.0\ref\ChessCore.dll
+J:\dNET\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.deps.json
+J:\dNET\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.dll
+J:\dNET\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.pdb
+J:\dNET\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.GeneratedMSBuildEditorConfig.editorconfig
+J:\dNET\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.AssemblyInfoInputs.cache
+J:\dNET\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.AssemblyInfo.cs
+J:\dNET\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.csproj.CoreCompileInputs.cache
+J:\dNET\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.dll
+J:\dNET\dotNETProject\ChessCore\obj\Debug\net6.0\refint\ChessCore.dll
+J:\dNET\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.pdb
+J:\dNET\dotNETProject\ChessCore\obj\Debug\net6.0\ref\ChessCore.dll
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.deps.json
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.dll
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.pdb
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.AssemblyInfo.cs
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.dll
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessCore\obj\Debug\net6.0\refint\ChessCore.dll
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.pdb
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessCore\obj\Debug\net6.0\ref\ChessCore.dll
+J:\dNET\Nowy folder\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.deps.json
+J:\dNET\Nowy folder\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.dll
+J:\dNET\Nowy folder\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.pdb
+J:\dNET\Nowy folder\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.csproj.AssemblyReference.cache
+J:\dNET\Nowy folder\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.GeneratedMSBuildEditorConfig.editorconfig
+J:\dNET\Nowy folder\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.AssemblyInfoInputs.cache
+J:\dNET\Nowy folder\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.AssemblyInfo.cs
+J:\dNET\Nowy folder\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.csproj.CoreCompileInputs.cache
+J:\dNET\Nowy folder\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.dll
+J:\dNET\Nowy folder\dotNETProject\ChessCore\obj\Debug\net6.0\refint\ChessCore.dll
+J:\dNET\Nowy folder\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.pdb
+J:\dNET\Nowy folder\dotNETProject\ChessCore\obj\Debug\net6.0\ref\ChessCore.dll
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.deps.json
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.dll
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessCore\bin\Debug\net6.0\ChessCore.pdb
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.AssemblyInfo.cs
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.dll
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessCore\obj\Debug\net6.0\refint\ChessCore.dll
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessCore\obj\Debug\net6.0\ChessCore.pdb
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessCore\obj\Debug\net6.0\ref\ChessCore.dll

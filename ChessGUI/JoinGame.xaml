@@ -1,0 +1,84 @@
+﻿<UserControl x:Class="ChessGUI.JoinGame"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ChessGUI"
+             mc:Ignorable="d" 
+             d:DesignHeight="800" d:DesignWidth="800">
+    <UserControl.Resources>
+        <Style x:Key="FocusVisual">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Rectangle Margin="2" StrokeDashArray="1 2" Stroke="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" SnapsToDevicePixels="true" StrokeThickness="1"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <SolidColorBrush x:Key="Button.Static.Background" Color="#FFDDDDDD"/>
+        <SolidColorBrush x:Key="Button.Static.Border" Color="#FF707070"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Background" Color="#FFBEE6FD"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Border" Color="#FF3C7FB1"/>
+        <SolidColorBrush x:Key="Button.Pressed.Background" Color="#FFC4E5F6"/>
+        <SolidColorBrush x:Key="Button.Pressed.Border" Color="#FF2C628B"/>
+        <SolidColorBrush x:Key="Button.Disabled.Background" Color="#FFF4F4F4"/>
+        <SolidColorBrush x:Key="Button.Disabled.Border" Color="#FFADB2B5"/>
+        <SolidColorBrush x:Key="Button.Disabled.Foreground" Color="#FF838383"/>
+        <Style x:Key="ButtonStyle1" TargetType="{x:Type Button}">
+            <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
+            <Setter Property="Background" Value="{StaticResource Button.Static.Background}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource Button.Static.Border}"/>
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="border" CornerRadius="5" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true">
+                            <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDefaulted" Value="true">
+                                <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.MouseOver.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.MouseOver.Border}"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Pressed.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Pressed.Border}"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="false">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Disabled.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Disabled.Border}"/>
+                                <Setter Property="TextElement.Foreground" TargetName="contentPresenter" Value="{StaticResource Button.Disabled.Foreground}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid>
+        <Border BorderBrush="Black" BorderThickness="1" Margin="100,200,100,280" Background="#F25ACDDC">
+
+
+        </Border>
+        <TextBlock TextWrapping="Wrap" Margin="314,218,304,503" FontFamily="Candara" FontSize="72" Foreground="White" TextAlignment="Center"><Run Language="pl-pl" Text="Chess"/></TextBlock>
+        <TextBlock x:Name="TextPanel" HorizontalAlignment="Center" Margin="0,306,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="600" Height="46" FontFamily="Candara" FontSize="36" TextAlignment="Center" Foreground="White"><Run Language="pl-pl" Text="Join the Game"/><LineBreak/><Run Language="pl-pl"/><LineBreak/><Run Language="pl-pl"/></TextBlock>
+        <TextBox x:Name="IpInputBox" HorizontalAlignment="Left" Margin="195,363,0,0" TextWrapping="Wrap" Text="127.0.0.1" VerticalAlignment="Top" Width="286" Height="27" Background="#F25ACDDC" BorderBrush="White" Foreground="White" SelectionBrush="White" FontFamily="Cascadia Code" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="166,363,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Candara" FontSize="22" Foreground="White" Text="IP:"/>
+        <TextBox x:Name="PortInputBox" HorizontalAlignment="Left" Margin="539,363,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" Height="27" Background="#F25ACDDC" BorderBrush="White" Foreground="White" SelectionBrush="White" FontFamily="Cascadia Code" FontSize="22" Text="8910"/>
+        <TextBlock HorizontalAlignment="Left" Margin="486,363,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Candara" FontSize="22" Foreground="White" Width="48" Height="27"><Run Language="pl-pl" Text="Port:"/><LineBreak/><Run Language="pl-pl"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="166,400,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Candara" FontSize="22" Foreground="White" Width="101" Height="26"><Run Text="Password"/><Run Language="pl-pl" Text=":"/><LineBreak/><Run/></TextBlock>
+        <Button x:Name="JoinGame_Button" Style="{DynamicResource ButtonStyle1}" Content="Join Game" HorizontalAlignment="Left" VerticalAlignment="Top" Background="#FF346F77" Foreground="White" FontFamily="Candara" BorderThickness="2,2,2,2" Click="JoinGame_Click" Width="154" BorderBrush="#FF132A50" Margin="246,454,0,0" Height="27" FontSize="16" />
+        <Button x:Name="Back_Button" Style="{DynamicResource ButtonStyle1}" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Background="#FF346F77" Foreground="White" FontFamily="Candara" BorderThickness="2,2,2,2" Click="Back_Click" Width="154" BorderBrush="#FF132A50" Margin="414,454,0,0" Height="27" FontSize="16" />
+        <PasswordBox x:Name="PasswordInputBox" HorizontalAlignment="Left" Margin="267,400,0,0" VerticalAlignment="Top" Width="369" Height="27" Background="#F25ACDDC" BorderBrush="White" Foreground="White" SelectionBrush="White" FontSize="22" FontFamily="Candara"/>
+
+    </Grid>
+</UserControl>

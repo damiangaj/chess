@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="ChessGUI.ChangingPawnMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ChessGUI"
+             mc:Ignorable="d" 
+             d:DesignHeight="800" d:DesignWidth="800">
+    <Border Margin="300,250,300,300" Background="#F25ACDDC">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="4*"/>
+            </Grid.RowDefinitions>
+            <TextBlock HorizontalAlignment="Center" Margin="0,0,0,0" TextWrapping="Wrap" Text="Choose:" VerticalAlignment="Center" Grid.ColumnSpan="2" Foreground="White" FontFamily="Candara" FontSize="36"/>
+            <Grid Grid.Row="1" Cursor="Hand">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Image x:Name="rookPNG" Grid.ColumnSpan="1" HorizontalAlignment="Left" Height="100" Margin="0,0,0,0" Grid.RowSpan="1" VerticalAlignment="Top" Width="100" MouseDown="rookPNG_mouseDown" Source="Assets/rookw.png"/>
+                <Image x:Name="knightPNG" Grid.ColumnSpan="2" HorizontalAlignment="Right" Height="100" Margin="0,0,0,0" Grid.RowSpan="1" VerticalAlignment="Top" Width="100" MouseDown="knightPNG_mouseDown" Source="Assets/knightw.png"/>
+                <Image x:Name="bishopPNG" Grid.ColumnSpan="1" HorizontalAlignment="Left" Height="100" Margin="0,0,0,0" Grid.RowSpan="2" VerticalAlignment="Bottom" Width="100" MouseDown="bishopPNG_mouseDown" Source="Assets/bishopw.png"/>
+                <Image x:Name="queenPNG" Grid.ColumnSpan="2" HorizontalAlignment="Right" Height="100" Margin="0,0,0,0" Grid.RowSpan="2" VerticalAlignment="Bottom" Width="100" MouseDown="queenPNG_mouseDown" Source="Assets/queenw.png"/>
+            </Grid>
+        </Grid>
+
+    </Border>
+</UserControl>

@@ -1,0 +1,182 @@
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.exe
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.deps.json
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.runtimeconfig.json
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.dll
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.pdb
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessCore.dll
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessCore.pdb
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.AssemblyReference.cache
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI_MarkupCompile.cache
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI_MarkupCompile.lref
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.g.resources
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.AssemblyInfoInputs.cache
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.AssemblyInfo.cs
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.CoreCompileInputs.cache
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.CopyComplete
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.dll
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\refint\ChessGUI.dll
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.pdb
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.genruntimeconfig.cache
+C:\Users\juliu\source\repos\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ref\ChessGUI.dll
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.exe
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.deps.json
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.runtimeconfig.json
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.dll
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.pdb
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessCore.dll
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessCore.pdb
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI_MarkupCompile.cache
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI_MarkupCompile.lref
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.g.resources
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.AssemblyInfo.cs
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.CopyComplete
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.dll
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\refint\ChessGUI.dll
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.pdb
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.genruntimeconfig.cache
+C:\Users\Damian\Desktop\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ref\ChessGUI.dll
+J:\dNET\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.exe
+J:\dNET\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.deps.json
+J:\dNET\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.runtimeconfig.json
+J:\dNET\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.dll
+J:\dNET\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.pdb
+J:\dNET\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessCore.dll
+J:\dNET\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessCore.pdb
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.AssemblyReference.cache
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\App.g.cs
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI_MarkupCompile.cache
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI_MarkupCompile.lref
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\MainWindow.baml
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.g.resources
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.GeneratedMSBuildEditorConfig.editorconfig
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.AssemblyInfoInputs.cache
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.AssemblyInfo.cs
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.CoreCompileInputs.cache
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.CopyComplete
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.dll
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\refint\ChessGUI.dll
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.pdb
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.genruntimeconfig.cache
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ref\ChessGUI.dll
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\GameEndingMenu.g.cs
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\GameEndingMenu.baml
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChangingPawnMenu.g.cs
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChangingPawnMenu.baml
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\Restart.g.cs
+J:\dNET\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\Restart.baml
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.exe
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.deps.json
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.runtimeconfig.json
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.dll
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.pdb
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessCore.dll
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessCore.pdb
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChangingPawnMenu.g.cs
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\GameEndingMenu.g.cs
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\Restart.g.cs
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI_MarkupCompile.cache
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI_MarkupCompile.lref
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChangingPawnMenu.baml
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\GameEndingMenu.baml
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\Restart.baml
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.g.resources
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.AssemblyInfo.cs
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.CopyComplete
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.dll
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\refint\ChessGUI.dll
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.pdb
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.genruntimeconfig.cache
+C:\Users\Damian\Desktop\backup2\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ref\ChessGUI.dll
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.exe
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.deps.json
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.runtimeconfig.json
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.dll
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.pdb
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\SuperSimpleTcp.dll
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessCore.dll
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessCore.pdb
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.AssemblyReference.cache
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChangingPawnMenu.g.cs
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\GameEndingMenu.g.cs
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\HostGame.g.cs
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\JoinGame.g.cs
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\Restart.g.cs
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\StartMenu.g.cs
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\App.g.cs
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI_MarkupCompile.cache
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI_MarkupCompile.lref
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChangingPawnMenu.baml
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\GameEndingMenu.baml
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\HostGame.baml
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\JoinGame.baml
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\MainWindow.baml
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\Restart.baml
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\StartMenu.baml
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.g.resources
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.GeneratedMSBuildEditorConfig.editorconfig
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.AssemblyInfoInputs.cache
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.AssemblyInfo.cs
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.CoreCompileInputs.cache
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.CopyComplete
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.dll
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\refint\ChessGUI.dll
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.pdb
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.genruntimeconfig.cache
+J:\dNET\Nowy folder\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ref\ChessGUI.dll
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.exe
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.deps.json
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.runtimeconfig.json
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.dll
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessGUI.pdb
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\SuperSimpleTcp.dll
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessCore.dll
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\bin\Debug\net6.0-windows\ChessCore.pdb
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChangingPawnMenu.g.cs
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\GameEndingMenu.g.cs
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\HostGame.g.cs
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\JoinGame.g.cs
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\Restart.g.cs
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\StartMenu.g.cs
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI_MarkupCompile.cache
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI_MarkupCompile.lref
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChangingPawnMenu.baml
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\GameEndingMenu.baml
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\HostGame.baml
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\JoinGame.baml
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\Restart.baml
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\StartMenu.baml
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.g.resources
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.AssemblyInfo.cs
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.csproj.CopyComplete
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.dll
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\refint\ChessGUI.dll
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.pdb
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ChessGUI.genruntimeconfig.cache
+C:\Users\Damian\Desktop\projekdotnet\dotNETProject\ChessGUI\obj\Debug\net6.0-windows\ref\ChessGUI.dll

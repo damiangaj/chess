@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0PXWki/tgtir1Pk5pvNJk1lghJL28gzv1FLOHhJJWkxTTUqO20Tv7HqOKKEOyxY/mqW8+0n6cj9MHerjgVzp/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Damian\\Desktop\\projekdotnet\\dotNETProject\\ChessGUI\\ChessGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Damian\\.nuget\\packages\\supersimpletcp\\3.0.14\\supersimpletcp.3.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TNmCHJbH1GYF4SEPU3bHjWS2O+q902c6YxaUsyY3uCaU+kKQKMuwVw1Kxvj2lnAHtYc1Me8bL+YYc77mXPYrMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Damian\\Desktop\\projekdotnet\\dotNETProject\\ChessCore\\ChessCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Damian\\.nuget\\packages\\supersimpletcp\\3.0.14\\supersimpletcp.3.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

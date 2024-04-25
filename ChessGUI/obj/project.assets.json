@@ -1,0 +1,142 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "SuperSimpleTcp/3.0.14": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/SuperSimpleTcp.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/SuperSimpleTcp.dll": {}
+        }
+      },
+      "ChessCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SuperSimpleTcp": "3.0.14"
+        },
+        "compile": {
+          "bin/placeholder/ChessCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChessCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SuperSimpleTcp/3.0.14": {
+      "sha512": "ITlEv4oNbTW0ViwNOFTH9Xk0YMPtP4VrExoXxf4dzH6ajoW9D2HNQZWXBKgsmEhoO3TGgXJSLM/d94NN40Ejtw==",
+      "type": "package",
+      "path": "supersimpletcp/3.0.14",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "icon.png",
+        "lib/net461/SimpleTcp.xml",
+        "lib/net461/SuperSimpleTcp.dll",
+        "lib/net462/SuperSimpleTcp.dll",
+        "lib/net48/SuperSimpleTcp.dll",
+        "lib/net6.0/SimpleTcp.xml",
+        "lib/net6.0/SuperSimpleTcp.dll",
+        "lib/net7.0/SuperSimpleTcp.dll",
+        "lib/net8.0/SuperSimpleTcp.dll",
+        "lib/netstandard2.1/SimpleTcp.xml",
+        "lib/netstandard2.1/SuperSimpleTcp.dll",
+        "supersimpletcp.3.0.14.nupkg.sha512",
+        "supersimpletcp.nuspec"
+      ]
+    },
+    "ChessCore/1.0.0": {
+      "type": "project",
+      "path": "../ChessCore/ChessCore.csproj",
+      "msbuildProject": "../ChessCore/ChessCore.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "ChessCore >= 1.0.0",
+      "SuperSimpleTcp >= 3.0.14"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Damian\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Damian\\Desktop\\projekdotnet\\dotNETProject\\ChessGUI\\ChessGUI.csproj",
+      "projectName": "ChessGUI",
+      "projectPath": "C:\\Users\\Damian\\Desktop\\projekdotnet\\dotNETProject\\ChessGUI\\ChessGUI.csproj",
+      "packagesPath": "C:\\Users\\Damian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Damian\\Desktop\\projekdotnet\\dotNETProject\\ChessGUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Damian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Damian\\Desktop\\projekdotnet\\dotNETProject\\ChessCore\\ChessCore.csproj": {
+              "projectPath": "C:\\Users\\Damian\\Desktop\\projekdotnet\\dotNETProject\\ChessCore\\ChessCore.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "SuperSimpleTcp": {
+            "target": "Package",
+            "version": "[3.0.14, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

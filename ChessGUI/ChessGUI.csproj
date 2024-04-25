@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\bischop.png" />
+    <None Remove="Assets\bishopw.png" />
+    <None Remove="Assets\blue-12-chessboard,medium_large.1491154949.jpg" />
+    <None Remove="Assets\board.jpg" />
+    <None Remove="Assets\icon.ico" />
+    <None Remove="Assets\king.png" />
+    <None Remove="Assets\kingw.png" />
+    <None Remove="Assets\knight.png" />
+    <None Remove="Assets\knightw.png" />
+    <None Remove="Assets\pawn.png" />
+    <None Remove="Assets\pawnw.ico" />
+    <None Remove="Assets\pawnw.png" />
+    <None Remove="Assets\queen.png" />
+    <None Remove="Assets\queenw.png" />
+    <None Remove="Assets\rook.png" />
+    <None Remove="Assets\rookw.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SuperSimpleTcp" Version="3.0.14" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\bischop.png" />
+    <Resource Include="Assets\bishopw.png" />
+    <Resource Include="Assets\board.jpg" />
+    <Resource Include="Assets\icon.ico" />
+    <Resource Include="Assets\king.png" />
+    <Resource Include="Assets\kingw.png" />
+    <Resource Include="Assets\knight.png" />
+    <Resource Include="Assets\knightw.png" />
+    <Resource Include="Assets\pawn.png" />
+    <Resource Include="Assets\pawnw.png" />
+    <Resource Include="Assets\queen.png" />
+    <Resource Include="Assets\queenw.png" />
+    <Resource Include="Assets\rook.png" />
+    <Resource Include="Assets\rookw.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ChessCore\ChessCore.csproj" />
+  </ItemGroup>
+
+</Project>
